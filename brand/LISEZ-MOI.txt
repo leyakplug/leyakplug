@@ -1,0 +1,34 @@
+SCALON · KIT DE MARQUE · v1.0 · octobre 2026
+
+Tu cherches quoi ?
+
+UN LOGO À POSER SUR UNE IMAGE OU UN DOCUMENT
+  01-logo/png/sans-fond/
+  - scalon-logo-horizontal-couleur.png     → sur fond clair (par défaut)
+  - scalon-logo-horizontal-pour-fond-sombre.png → sur fond foncé
+  - scalon-logo-horizontal-blanc.png       → sur terracotta ou sur une photo
+  - scalon-symbole-couleur.png             → quand la place est petite
+
+UN LOGO À ENVOYER TEL QUEL (e-mail, devis, partenaire)
+  01-logo/png/avec-fond/
+
+UN FICHIER POUR UN IMPRIMEUR, UN SITE OU FIGMA
+  01-logo/svg/   (vectoriel, agrandissable à l'infini)
+
+LA PHOTO DE PROFIL ET LES BANNIÈRES
+  03-reseaux/profil/
+
+UN POST À CRÉER
+  03-reseaux/modeles/   → prends le fichier « vide », ajoute ton texte dans Canva.
+  Le fichier « exemple » montre le résultat attendu.
+  03-reseaux/fonds/     → aplats et motifs Pétale.
+
+LES POLICES (à installer ou à importer dans Canva : Marque > Polices)
+  04-polices/   Jost + Cormorant Garamond. Gratuites, usage commercial OK (licence OFL incluse).
+
+LES RÈGLES
+  02-charte/Scalon-charte-de-marque.pdf
+
+COULEURS
+  Terracotta #A86443 · Ivoire #F6F4F0 · Encre #22201B
+  Brique #7E4630 · Argile #EAD7C8 · Sable #D9CFC4
